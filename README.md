@@ -1,6 +1,3 @@
-Aqui está o código completo com os ícones adicionados (**Python**, **PostgreSQL** e os que já existiam):
-
-```markdown
 # 👨🏻‍💻 Antônio Carlos
 
 **`Desenvolvedor FullStack | Analista de Sistemas | Tecnologia & Inovação`**
@@ -129,6 +126,13 @@ Sou apaixonado por tecnologia, programação e desenvolvimento de soluções que
 <br/>
 <br/>
 
+### 🌐 Site Desenvolvido
+
+**Área Técnica Copytec**  
+[areatecnica.copytec.com.br](https://areatecnica.copytec.com.br)
+
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -146,15 +150,3 @@ Sou apaixonado por tecnologia, programação e desenvolvimento de soluções que
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniotomichas-collab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-```
-
----
-
-### Ícones adicionados:
-
-- **Python**
-- **PostgreSQL**
-- **JavaScript** (já estava)
-- **MySQL** (já estava)
-
-Quer que eu adicione mais algum? (ex: Laravel, React, Node.js, Docker, etc.)
