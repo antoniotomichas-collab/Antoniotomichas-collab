@@ -1,3 +1,6 @@
+Aqui está o código completo com os ícones adicionados (**Python**, **PostgreSQL** e os que já existiam):
+
+```markdown
 # 👨🏻‍💻 Antônio Carlos
 
 **`Desenvolvedor FullStack | Analista de Sistemas | Tecnologia & Inovação`**
@@ -76,11 +79,27 @@ Sou apaixonado por tecnologia, programação e desenvolvimento de soluções que
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
@@ -127,3 +146,15 @@ Sou apaixonado por tecnologia, programação e desenvolvimento de soluções que
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniotomichas-collab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+```
+
+---
+
+### Ícones adicionados:
+
+- **Python**
+- **PostgreSQL**
+- **JavaScript** (já estava)
+- **MySQL** (já estava)
+
+Quer que eu adicione mais algum? (ex: Laravel, React, Node.js, Docker, etc.)
